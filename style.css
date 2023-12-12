@@ -1,0 +1,54 @@
+/* LIST-STYLE-TYPE */
+/* ol {
+    list-style-type: lower-roman;} */
+
+
+    /* list-style-image */
+
+    /* ul {
+        list-style-image: url("C:\Users\HP\Desktop\L,T,F\picture's\pic.jpg");}
+        li {
+        margin: 10px 0px 0px 0px;} */
+
+        /* list-style-position */
+
+        /* ul {
+            width: 150px;}
+            li {
+            margin: 10px;}
+            ul.illuminations {
+            list-style-position: outside;}
+            ul.season {
+            list-style-position: inside;} */
+
+            /* list-shorthand */
+
+            /* ul {
+                list-style: inside circle;
+                width: 300px;}
+                li {
+                margin: 10px 0px 0px 0px;} */
+
+                /* TABLE PROPERTIES */
+
+                /* body {
+                    font-family: Arial, Verdana, sans-serif;
+                    color: #111111;}
+                    table {
+                    width: 600px;}
+                    th, td {
+                    padding: 7px 10px 10px 10px;}
+                    th {
+                    text-transform: uppercase;
+                    letter-spacing: 0.1em;
+                    font-size: 90%;
+                    border-bottom: 2px solid #111111;
+                    border-top: 1px solid #999;
+                    text-align: left;}
+                    tr.even {
+                    background-color: #efefef;}
+                    tr:hover {
+                    background-color: #c3e6e5;}
+                    .money {
+                    text-align: right;} */
+
